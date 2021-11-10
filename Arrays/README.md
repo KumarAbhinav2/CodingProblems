@@ -34,3 +34,4 @@ Repository is dedicated to host interesting Array problems mostly from popular p
 30. [Simplify Path - MEDIUM](https://github.com/KumarAbhinav2/Arrays/blob/master/simplify_path(LTM-71).py)
 31. [Array Pairs divisible by k - MEDIUM](https://github.com/KumarAbhinav2/Arrays/blob/master/arrayPairsDivisibleByK(LTM-1497).py)
 32. [Surrounded Regions - MEDIUM](https://github.com/KumarAbhinav2/Arrays/blob/master/surroundedRegions(LTM-130).py)
+33. [Buy and Sell Stocks-ii](https://github.com/KumarAbhinav2/CodingProblems/blob/main/Arrays/buy-and-sell-stock-ii(LTM-122).py)
