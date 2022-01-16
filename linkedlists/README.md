@@ -11,3 +11,4 @@ Repository is dedicated to host interesting linkedlist problems mostly from popu
 7. [Removing nth node from the list.](https://github.com/KumarAbhinav2/linkedlists/blob/master/removeNthNodeFromEndOfTheList(LTM-19).py)
 8. [Merge k linked lists](https://github.com/KumarAbhinav2/linkedlists/blob/master/mergeKLists(LTH-23).py)
 9. [Remove Duplicates from linked list](https://github.com/KumarAbhinav2/linkedlists/blob/master/removeDuplicatesFromll(LTE-83).py)
+10. [Middle of a linked list](https://github.com/KumarAbhinav2/CodingProblems/blob/main/linkedlists/middle_of_ll(LT-876).py)
