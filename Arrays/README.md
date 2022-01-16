@@ -35,3 +35,4 @@ Repository is dedicated to host interesting Array problems mostly from popular p
 31. [Array Pairs divisible by k - MEDIUM](https://github.com/KumarAbhinav2/Arrays/blob/master/arrayPairsDivisibleByK(LTM-1497).py)
 32. [Surrounded Regions - MEDIUM](https://github.com/KumarAbhinav2/Arrays/blob/master/surroundedRegions(LTM-130).py)
 33. [Buy and Sell Stocks-ii](https://github.com/KumarAbhinav2/CodingProblems/blob/main/Arrays/buy-and-sell-stock-ii(LTM-122).py)
+34. [Maximise distance to closest person](https://github.com/KumarAbhinav2/CodingProblems/blob/main/Arrays/maximum_distance_between_pair_of_values(LTM-1855).py)
